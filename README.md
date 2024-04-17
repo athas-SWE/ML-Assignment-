@@ -23,6 +23,6 @@ Links:
 
 Dataset Link: https://www.kaggle.com/datasets/zalando-research/fashionmnist
 
-Repository Link: https://github.com/Subanista/DLAssignment
+Repository Link: https://github.com/athas-SWE/ML-Assignment-/tree/main
 
-YouTube Link: https://www.youtube.com/playlist?list=PL5zJL87RFoS9sG3Olio-LfhIY7kC6AwoO 
+YouTube Link:
