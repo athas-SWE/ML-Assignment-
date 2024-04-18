@@ -25,4 +25,4 @@ Dataset Link: https://www.kaggle.com/datasets/zalando-research/fashionmnist
 
 Repository Link: https://github.com/athas-SWE/ML-Assignment-/tree/main
 
-YouTube Link:
+YouTube Link: https://youtube.com/playlist?list=PLpZadjM_Xon6DLL4WLhYr9LbMUKP5jZfb&si=SeWo_WAEoUO25ZpW
